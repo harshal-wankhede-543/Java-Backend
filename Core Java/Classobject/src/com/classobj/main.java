@@ -3,6 +3,7 @@ import com.classobj.Star;
 import com.classobj.Even;
 import com.classobj.oddeven;
 import com.classobj.Prime;
+import com.classobj.Ifelse;
 class Addition{
 	public void add() {
 		int a=10;
@@ -26,7 +27,8 @@ public class main {
 		od.odd();
 		Prime pm = new Prime();
 		pm.prime();
-		
+		Ifelse ip = new Ifelse();
+		ip.ifelse();
 		
 	}
 
